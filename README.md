@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mithunmadhavan - Technical Lead @ Asokaa Developers Pvt Ltd
-- 👀 I’m interested in Full Stack Development using React Node Java RDB/MongoDB AWS, Heroku
-- 💞️ I’m looking to collaborate on Develpment and Architecture Design
-- 📫 How to reach me mithunpm809@gmail.com
+- 👋 Hi, I’m @mithunmadhavan - Project Manager || Lead Engineer
+- 👀 CERTIFIED PROJECT MANAGEMENT PROFESSIONAL || CERTIFIED AWS DEVELOPER ASSOCIATE || FULL STACK ENGINEER || DEVOPS
+- 💞️ I’m looking to collaborate on Technical Team Management and Architectural Design
+- 📫 Intreseted in collaborating with me Feel free to reach me @ mithunpm809@gmail.com
