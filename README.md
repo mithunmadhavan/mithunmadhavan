@@ -19,3 +19,5 @@ Passion:
  - Leadership and Managing complex problems with simpler solutions
 
 - 📫 Intreseted in collaborating with me Feel free to reach me @ mithunpm809@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/mithun-p-madhav)
