@@ -7,7 +7,7 @@
 
 - Mithun has experience in working on domains like E-Com, Insurance, Laboratory and Hospital Management Systems, Billing and Inventory Management Systems, Ticket Booking Systems, HR Management Software, White Label Solutions, Loyalty Management Software.
 
-- 📫 Intreseted in collaborating with Mithun always open for communication @ [Contact Mithun](mailto:mithunpm809@gmail.com)
+- 📫 Intreseted in collaborating with Mithun always open for communication @ [Contact Mithun](mailto:mithunpm809@gmail.com?subject=Collaborate with Mithun &body=Hi, Please provide in your message below... Thanks)
 
 Checkout Mithun's social profile at:
 [LinkedIn](https://www.linkedin.com/in/mithun-p-madhav)
