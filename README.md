@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Artificial Intellegence**
 
-- 💬 Ask me about **NodeJS, SQL, React**
-
 - 📫 How to reach me **mithunpm809@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
