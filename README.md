@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mithun</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left" > 
-  <img src="https://github.com/mithunmadhavan/mithunmadhavan/blob/cdc6a205406575062e9f84390e052704c5d21149/public/images/icons/social/linked-in-alt.svg" alt="mithunmadhavan" width='75' height='75' /> 
-</p>
-
 - 🔭 I’m currently working with **Techcarrot FZ LLC**
 
 - 🌱 I’m currently learning **Artificial Intellegence**
@@ -13,14 +9,14 @@
 
 - 📫 How to reach me **mithunpm809@gmail.com**
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mithunmadhavan&theme=default&hide_border=false)<br/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mithun-p-madhav" target="blank">
-    <img align="center" src="https://www.github.com/mithunmadhavan/public/images/icons/social/linked-in-alt.svg" alt="mithun-p-madhav" height="30" width="40" />
+    <img align="center" src="https://github.com/mithunmadhavan/mithunmadhavan/blob/cdc6a205406575062e9f84390e052704c5d21149/public/images/icons/social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mithunmadhavan&theme=default&hide_border=false)<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -139,8 +135,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
    </a> 
 </p>
+
 - Mithun is an innovative Full Stack Engineer with experience in Software Development using **NodeJS, ReactJS, AWS**. Created scalable service interface with **Express, GraphQL, Hapi.** Has good experience in creating service environments in container systems like **Dockers**, managed source code using Version Control Systems like **CI/CD, Github, GitLab, Jenkins, CodeCommit** and has excellent skill in **Git**. Good proficiency with relational DBs(**SQL**, **PostgreSQL**) and NoSQL databases (**MongoDB**). Have hosted applications in **Nginx, Amplify, EC2 Instance**, Configured Security, Network gateway, ALB, SSL for **monolithic, microservice, SOLID** architecture using **AWS, Heroku**. Good knowledge in unit testing using **Mocha** for pre-deploy verification for errors. Have hands-on experience on cache systems like **Redis**, and queue based producer-consumer systems like **Kafka**. Good proficiency in advanced queries on Computer Architecture and Algorithms. Familiar with creating Custom Reusable Components like Hooks, HOC, SPA, PWA using ReactJS. Great contribution to **POC**, **R&D** towards Software **Architecture** Design, Database design. Design and Implement web interface using HTML5/CSS3, SAS.
 
 - Mithun has worked in Waterfall and Agile methodology and was exposed to project management tools like Jira and Clickup and also is a certified Project Managment Professional adn Agile practitioner. Mithun also have expertise in project and team handling upto size 11. Creating roadmaps, sprint and capacity planning, project risk management using burn-down charts, mentoring, handling stakeholders.
 
 - Mithun has experience in working on domains like E-Com, Insurance, Laboratory and Hospital Management Systems, Billing and Inventory Management Systems, Ticket Booking Systems, HR Management Software, White Label Solutions, Loyalty Management Software.
+
+# Visitors
+![Profile views counter](https://profile-counter.glitch.me/amrishkha05/count.svg) <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='100'>
