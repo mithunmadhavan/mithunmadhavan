@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mithun</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-
-- 🔭 I’m currently working with **Techcarrot FZ LLC**
-
-- 🌱 I’m currently learning **Artificial Intellegence**
-
-- 📫 How to reach me **mithunpm809@gmail.com**
+<h1 align="center">Hi 👋, I'm <a href="https://mithunmadhavan.github.io/" target="blank"> Mithun Kodoth </a></h1>
+<h3 align="center">A passionate Full Stack Architect</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
