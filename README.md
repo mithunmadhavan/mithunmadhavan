@@ -139,6 +139,3 @@
 - Mithun has worked in Waterfall and Agile methodology and was exposed to project management tools like Jira and Clickup and also is a certified Project Managment Professional adn Agile practitioner. Mithun also have expertise in project and team handling upto size 11. Creating roadmaps, sprint and capacity planning, project risk management using burn-down charts, mentoring, handling stakeholders.
 
 - Mithun has experience in working on domains like E-Com, Insurance, Laboratory and Hospital Management Systems, Billing and Inventory Management Systems, Ticket Booking Systems, HR Management Software, White Label Solutions, Loyalty Management Software.
-
-# Visitors
-![Profile views counter](https://profile-counter.glitch.me/amrishkha05/count.svg) <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='100'>
