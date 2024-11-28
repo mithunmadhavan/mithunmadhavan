@@ -100,7 +100,8 @@ Currently based in Dubai, UAE, I lead teams to deliver cutting-edge software sol
 
 - **Email**: [mithunpm809@gmail.com](mailto:mithunpm809@gmail.com)  
 - **WhatsApp**: [Chat on WhatsApp](https://wa.me/971507717522)  
-- **LinkedIn**: [Mithun P Madhav](https://ae.linkedin.com/in/mithun-p-madhav)  
+- **LinkedIn**: [Mithun P Madhav](https://ae.linkedin.com/in/mithun-p-madhav)
+- **Resume**: [CV](https://docs.google.com/document/d/1lfTrsp1qxLreUp0QzYITbE4k_s1Dq3Ww3jhKODqQozI/export?format=pd)
 
 ---
 ✨ _Feel free to explore my [GitHub Pages](https://mithunmadhavan.github.io/) for more about me!_
